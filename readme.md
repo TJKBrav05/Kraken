@@ -1,4 +1,6 @@
-
+git clone https://github.com/jasonxtn/kraken.git
+cd Kraken
+pip install -r requirements.txt
 <h1 align="center">
   <a href="">
     <picture>
